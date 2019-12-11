@@ -19,6 +19,7 @@
 		9564815123A1263A002A8010 /* TitleText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815023A1263A002A8010 /* TitleText.swift */; };
 		9564815323A12690002A8010 /* SubtitleText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815223A12690002A8010 /* SubtitleText.swift */; };
 		9564815523A129D3002A8010 /* Example_WithAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815423A129D3002A8010 /* Example_WithAnimation.swift */; };
+		9564815723A12B84002A8010 /* CurveExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815623A12B84002A8010 /* CurveExamples.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		9564815023A1263A002A8010 /* TitleText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleText.swift; sourceTree = "<group>"; };
 		9564815223A12690002A8010 /* SubtitleText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtitleText.swift; sourceTree = "<group>"; };
 		9564815423A129D3002A8010 /* Example_WithAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example_WithAnimation.swift; sourceTree = "<group>"; };
+		9564815623A12B84002A8010 /* CurveExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurveExamples.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			children = (
 				9564814823A12442002A8010 /* Example_NoAnimation.swift */,
 				9564815423A129D3002A8010 /* Example_WithAnimation.swift */,
+				9564815623A12B84002A8010 /* CurveExamples.swift */,
 			);
 			path = SwiftUIAnimationSamples;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 			files = (
 				9564814F23A1254A002A8010 /* BannerText.swift in Sources */,
 				9564814923A12442002A8010 /* Example_NoAnimation.swift in Sources */,
+				9564815723A12B84002A8010 /* CurveExamples.swift in Sources */,
 				9564815523A129D3002A8010 /* Example_WithAnimation.swift in Sources */,
 				9564815123A1263A002A8010 /* TitleText.swift in Sources */,
 				9564813423A123E3002A8010 /* AppDelegate.swift in Sources */,
