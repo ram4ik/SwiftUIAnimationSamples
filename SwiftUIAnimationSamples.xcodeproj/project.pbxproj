@@ -21,6 +21,7 @@
 		9564815523A129D3002A8010 /* Example_WithAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815423A129D3002A8010 /* Example_WithAnimation.swift */; };
 		9564815723A12B84002A8010 /* CurveExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815623A12B84002A8010 /* CurveExamples.swift */; };
 		9564815923A1340B002A8010 /* ChalengeRecreateAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815823A1340B002A8010 /* ChalengeRecreateAnimation.swift */; };
+		9564815B23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815A23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		9564815423A129D3002A8010 /* Example_WithAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example_WithAnimation.swift; sourceTree = "<group>"; };
 		9564815623A12B84002A8010 /* CurveExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurveExamples.swift; sourceTree = "<group>"; };
 		9564815823A1340B002A8010 /* ChalengeRecreateAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChalengeRecreateAnimation.swift; sourceTree = "<group>"; };
+		9564815A23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChalengeREcreateAnimation_2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				9564815423A129D3002A8010 /* Example_WithAnimation.swift */,
 				9564815623A12B84002A8010 /* CurveExamples.swift */,
 				9564815823A1340B002A8010 /* ChalengeRecreateAnimation.swift */,
+				9564815A23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift */,
 			);
 			path = SwiftUIAnimationSamples;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				9564815923A1340B002A8010 /* ChalengeRecreateAnimation.swift in Sources */,
 				9564814C23A124C8002A8010 /* Conventions.swift in Sources */,
 				9564813623A123E3002A8010 /* SceneDelegate.swift in Sources */,
+				9564815B23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift in Sources */,
 				9564815323A12690002A8010 /* SubtitleText.swift in Sources */,
 				9564813823A123E3002A8010 /* ContentView.swift in Sources */,
 			);
