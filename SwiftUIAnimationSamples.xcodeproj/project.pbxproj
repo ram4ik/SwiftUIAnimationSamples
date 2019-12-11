@@ -23,6 +23,7 @@
 		9564815923A1340B002A8010 /* ChalengeRecreateAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815823A1340B002A8010 /* ChalengeRecreateAnimation.swift */; };
 		9564815B23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815A23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift */; };
 		9564815D23A13DDF002A8010 /* AnimatableProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815C23A13DDF002A8010 /* AnimatableProperties.swift */; };
+		9564815F23A13FAE002A8010 /* Animate_HueRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815E23A13FAE002A8010 /* Animate_HueRotation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		9564815823A1340B002A8010 /* ChalengeRecreateAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChalengeRecreateAnimation.swift; sourceTree = "<group>"; };
 		9564815A23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChalengeREcreateAnimation_2.swift; sourceTree = "<group>"; };
 		9564815C23A13DDF002A8010 /* AnimatableProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatableProperties.swift; sourceTree = "<group>"; };
+		9564815E23A13FAE002A8010 /* Animate_HueRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_HueRotation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				9564815823A1340B002A8010 /* ChalengeRecreateAnimation.swift */,
 				9564815A23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift */,
 				9564815C23A13DDF002A8010 /* AnimatableProperties.swift */,
+				9564815E23A13FAE002A8010 /* Animate_HueRotation.swift */,
 			);
 			path = SwiftUIAnimationSamples;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 			files = (
 				9564814F23A1254A002A8010 /* BannerText.swift in Sources */,
 				9564814923A12442002A8010 /* Example_NoAnimation.swift in Sources */,
+				9564815F23A13FAE002A8010 /* Animate_HueRotation.swift in Sources */,
 				9564815723A12B84002A8010 /* CurveExamples.swift in Sources */,
 				9564815523A129D3002A8010 /* Example_WithAnimation.swift in Sources */,
 				9564815123A1263A002A8010 /* TitleText.swift in Sources */,
