@@ -32,7 +32,9 @@ struct Exercise1_TheSetup: View {
                     Rectangle()
                         .frame(width: 72, height: 36)
                 }.offset(x: 10) // Move right
-            }.foregroundColor(change ? .red : .orange)
+            }
+            .rotationEffect(.degrees(change ? 0 : -90))
+            .foregroundColor(change ? .red : .orange)
             .opacity(change ? 1 : 0)
             .animation(.default)
             
