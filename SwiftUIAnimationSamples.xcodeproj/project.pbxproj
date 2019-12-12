@@ -25,6 +25,7 @@
 		9564815D23A13DDF002A8010 /* AnimatableProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815C23A13DDF002A8010 /* AnimatableProperties.swift */; };
 		9564815F23A13FAE002A8010 /* Animate_HueRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815E23A13FAE002A8010 /* Animate_HueRotation.swift */; };
 		9564816123A21DE3002A8010 /* Animated_Offset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564816023A21DE3002A8010 /* Animated_Offset.swift */; };
+		9564816323A22042002A8010 /* Animate_Opacity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564816223A22042002A8010 /* Animate_Opacity.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		9564815C23A13DDF002A8010 /* AnimatableProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatableProperties.swift; sourceTree = "<group>"; };
 		9564815E23A13FAE002A8010 /* Animate_HueRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_HueRotation.swift; sourceTree = "<group>"; };
 		9564816023A21DE3002A8010 /* Animated_Offset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animated_Offset.swift; sourceTree = "<group>"; };
+		9564816223A22042002A8010 /* Animate_Opacity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_Opacity.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				9564815C23A13DDF002A8010 /* AnimatableProperties.swift */,
 				9564815E23A13FAE002A8010 /* Animate_HueRotation.swift */,
 				9564816023A21DE3002A8010 /* Animated_Offset.swift */,
+				9564816223A22042002A8010 /* Animate_Opacity.swift */,
 			);
 			path = SwiftUIAnimationSamples;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 				9564816123A21DE3002A8010 /* Animated_Offset.swift in Sources */,
 				9564815523A129D3002A8010 /* Example_WithAnimation.swift in Sources */,
 				9564815123A1263A002A8010 /* TitleText.swift in Sources */,
+				9564816323A22042002A8010 /* Animate_Opacity.swift in Sources */,
 				9564813423A123E3002A8010 /* AppDelegate.swift in Sources */,
 				9564815D23A13DDF002A8010 /* AnimatableProperties.swift in Sources */,
 				9564815923A1340B002A8010 /* ChalengeRecreateAnimation.swift in Sources */,
