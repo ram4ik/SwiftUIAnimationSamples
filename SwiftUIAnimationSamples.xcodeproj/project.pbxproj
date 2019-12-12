@@ -34,6 +34,7 @@
 		9564816F23A23A5C002A8010 /* Animate_RoundedCorners.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564816E23A23A5C002A8010 /* Animate_RoundedCorners.swift */; };
 		9564817123A23BFE002A8010 /* Animate_TextSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817023A23BFE002A8010 /* Animate_TextSize.swift */; };
 		9564817323A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817223A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift */; };
+		9564817523A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817423A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +67,7 @@
 		9564816E23A23A5C002A8010 /* Animate_RoundedCorners.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_RoundedCorners.swift; sourceTree = "<group>"; };
 		9564817023A23BFE002A8010 /* Animate_TextSize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_TextSize.swift; sourceTree = "<group>"; };
 		9564817223A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_TextSize_ScaleEffect.swift; sourceTree = "<group>"; };
+		9564817423A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_TextSize_ScaleEffect_Solution.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 				9564816E23A23A5C002A8010 /* Animate_RoundedCorners.swift */,
 				9564817023A23BFE002A8010 /* Animate_TextSize.swift */,
 				9564817223A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift */,
+				9564817423A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift */,
 			);
 			path = SwiftUIAnimationSamples;
 			sourceTree = "<group>";
@@ -237,6 +240,7 @@
 				9564814923A12442002A8010 /* Example_NoAnimation.swift in Sources */,
 				9564815F23A13FAE002A8010 /* Animate_HueRotation.swift in Sources */,
 				9564815723A12B84002A8010 /* CurveExamples.swift in Sources */,
+				9564817523A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift in Sources */,
 				9564816123A21DE3002A8010 /* Animated_Offset.swift in Sources */,
 				9564816D23A2379B002A8010 /* Animate_ScaleEffect_Anchor.swift in Sources */,
 				9564816723A227D5002A8010 /* Animate_RotationEffect_Anchor.swift in Sources */,
