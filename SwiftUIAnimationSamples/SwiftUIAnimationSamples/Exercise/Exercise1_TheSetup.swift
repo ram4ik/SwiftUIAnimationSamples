@@ -10,6 +10,7 @@ import SwiftUI
 
 struct Exercise1_TheSetup: View {
     @State private var change = false
+    var offsetValue: CGFloat = 200 // Centralize the offset value
     var body: some View {
         VStack(spacing: 20) {
             TitleText("Exercise")
@@ -22,19 +23,19 @@ struct Exercise1_TheSetup: View {
                 HStack(alignment: .bottom, spacing: 1) {
                     Rectangle()
                         .frame(width: 70, height: 35)
-                        .offset(x: change ? 0 : -200) // Move left
+                        .offset(x: change ? 0 : -offsetValue) // Move left
                     Rectangle()
                         .frame(width: 35, height: 70)
-                        .offset(y: change ? 0 : -200) // Move up
+                        .offset(y: change ? 0 : -offsetValue) // Move up
                 }.offset(x: -18) // Move left
                 
                 HStack(alignment: .top, spacing: 1) {
                     Rectangle()
                         .frame(width: 36, height: 72)
-                        .offset(y: change ? 0 : 200) // Move down
+                        .offset(y: change ? 0 : offsetValue) // Move down
                     Rectangle()
                         .frame(width: 72, height: 36)
-                        .offset(x: change ? 0 : 200) // Move right
+                        .offset(x: change ? 0 : offsetValue) // Move right
                 }.offset(x: 10) // Move right
             }
             .rotationEffect(.degrees(change ? 0 : -90))
