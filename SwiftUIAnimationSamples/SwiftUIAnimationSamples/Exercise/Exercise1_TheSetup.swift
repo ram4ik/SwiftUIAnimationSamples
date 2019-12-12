@@ -22,15 +22,23 @@ struct Exercise1_TheSetup: View {
                 HStack(alignment: .bottom, spacing: 1) {
                     Rectangle()
                         .frame(width: 70, height: 35)
+                        .opacity(change ? 1 : 0)
+                        .animation(.default)
                     Rectangle()
                         .frame(width: 35, height: 70)
+                        .opacity(change ? 1 : 0)
+                        .animation(.default)
                 }.offset(x: -18) // Move left
                 
                 HStack(alignment: .top, spacing: 1) {
                     Rectangle()
                         .frame(width: 36, height: 72)
+                        .opacity(change ? 1 : 0)
+                        .animation(.default)
                     Rectangle()
                         .frame(width: 72, height: 36)
+                        .opacity(change ? 1 : 0)
+                        .animation(.default)
                 }.offset(x: 10) // Move right
             }.foregroundColor(.red)
             Spacer()
