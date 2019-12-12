@@ -39,6 +39,7 @@
 		9564817A23A248AD002A8010 /* PutItAllTogether.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817923A248AD002A8010 /* PutItAllTogether.swift */; };
 		9564817C23A260A2002A8010 /* Exercise1_TheSetup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817B23A260A2002A8010 /* Exercise1_TheSetup.swift */; };
 		9564817F23A27E9F002A8010 /* Challenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817E23A27E9F002A8010 /* Challenge.swift */; };
+		9564818123A28321002A8010 /* Challenge_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818023A28321002A8010 /* Challenge_2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -76,6 +77,7 @@
 		9564817923A248AD002A8010 /* PutItAllTogether.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PutItAllTogether.swift; sourceTree = "<group>"; };
 		9564817B23A260A2002A8010 /* Exercise1_TheSetup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise1_TheSetup.swift; sourceTree = "<group>"; };
 		9564817E23A27E9F002A8010 /* Challenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge.swift; sourceTree = "<group>"; };
+		9564818023A28321002A8010 /* Challenge_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge_2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,6 +191,7 @@
 			isa = PBXGroup;
 			children = (
 				9564817E23A27E9F002A8010 /* Challenge.swift */,
+				9564818023A28321002A8010 /* Challenge_2.swift */,
 			);
 			path = Challenge;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 			files = (
 				9564814F23A1254A002A8010 /* BannerText.swift in Sources */,
 				9564814923A12442002A8010 /* Example_NoAnimation.swift in Sources */,
+				9564818123A28321002A8010 /* Challenge_2.swift in Sources */,
 				9564815F23A13FAE002A8010 /* Animate_HueRotation.swift in Sources */,
 				9564815723A12B84002A8010 /* CurveExamples.swift in Sources */,
 				9564817523A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift in Sources */,
