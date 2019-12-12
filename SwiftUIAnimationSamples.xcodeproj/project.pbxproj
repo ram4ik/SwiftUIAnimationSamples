@@ -40,6 +40,7 @@
 		9564817C23A260A2002A8010 /* Exercise1_TheSetup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817B23A260A2002A8010 /* Exercise1_TheSetup.swift */; };
 		9564817F23A27E9F002A8010 /* Challenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817E23A27E9F002A8010 /* Challenge.swift */; };
 		9564818123A28321002A8010 /* Challenge_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818023A28321002A8010 /* Challenge_2.swift */; };
+		9564818423A288B6002A8010 /* TriggerButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818323A288B6002A8010 /* TriggerButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,6 +79,7 @@
 		9564817B23A260A2002A8010 /* Exercise1_TheSetup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise1_TheSetup.swift; sourceTree = "<group>"; };
 		9564817E23A27E9F002A8010 /* Challenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge.swift; sourceTree = "<group>"; };
 		9564818023A28321002A8010 /* Challenge_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge_2.swift; sourceTree = "<group>"; };
+		9564818323A288B6002A8010 /* TriggerButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriggerButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 		9564813223A123E3002A8010 /* SwiftUIAnimationSamples */ = {
 			isa = PBXGroup;
 			children = (
+				9564818223A28898002A8010 /* AnimationTriggers */,
 				9564814D23A12533002A8010 /* Utils */,
 				9564814A23A124B4002A8010 /* Template */,
 				9564814723A12403002A8010 /* SwiftUIAnimationSamples */,
@@ -194,6 +197,14 @@
 				9564818023A28321002A8010 /* Challenge_2.swift */,
 			);
 			path = Challenge;
+			sourceTree = "<group>";
+		};
+		9564818223A28898002A8010 /* AnimationTriggers */ = {
+			isa = PBXGroup;
+			children = (
+				9564818323A288B6002A8010 /* TriggerButton.swift */,
+			);
+			path = AnimationTriggers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -282,6 +293,7 @@
 				9564815123A1263A002A8010 /* TitleText.swift in Sources */,
 				9564816F23A23A5C002A8010 /* Animate_RoundedCorners.swift in Sources */,
 				9564817323A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift in Sources */,
+				9564818423A288B6002A8010 /* TriggerButton.swift in Sources */,
 				9564816323A22042002A8010 /* Animate_Opacity.swift in Sources */,
 				9564817123A23BFE002A8010 /* Animate_TextSize.swift in Sources */,
 				9564816923A2344D002A8010 /* Animate_Size_Frame.swift in Sources */,
