@@ -38,6 +38,7 @@
 		9564817723A2454A002A8010 /* Animate_Trim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817623A2454A002A8010 /* Animate_Trim.swift */; };
 		9564817A23A248AD002A8010 /* PutItAllTogether.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817923A248AD002A8010 /* PutItAllTogether.swift */; };
 		9564817C23A260A2002A8010 /* Exercise1_TheSetup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817B23A260A2002A8010 /* Exercise1_TheSetup.swift */; };
+		9564817F23A27E9F002A8010 /* Challenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817E23A27E9F002A8010 /* Challenge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -74,6 +75,7 @@
 		9564817623A2454A002A8010 /* Animate_Trim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_Trim.swift; sourceTree = "<group>"; };
 		9564817923A248AD002A8010 /* PutItAllTogether.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PutItAllTogether.swift; sourceTree = "<group>"; };
 		9564817B23A260A2002A8010 /* Exercise1_TheSetup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise1_TheSetup.swift; sourceTree = "<group>"; };
+		9564817E23A27E9F002A8010 /* Challenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 		9564814723A12403002A8010 /* SwiftUIAnimationSamples */ = {
 			isa = PBXGroup;
 			children = (
+				9564817D23A27E81002A8010 /* Challenge */,
 				9564817823A2477E002A8010 /* Exercise */,
 				9564814823A12442002A8010 /* Example_NoAnimation.swift */,
 				9564815423A129D3002A8010 /* Example_WithAnimation.swift */,
@@ -180,6 +183,14 @@
 				9564817B23A260A2002A8010 /* Exercise1_TheSetup.swift */,
 			);
 			path = Exercise;
+			sourceTree = "<group>";
+		};
+		9564817D23A27E81002A8010 /* Challenge */ = {
+			isa = PBXGroup;
+			children = (
+				9564817E23A27E9F002A8010 /* Challenge.swift */,
+			);
+			path = Challenge;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -278,6 +289,7 @@
 				9564815B23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift in Sources */,
 				9564815323A12690002A8010 /* SubtitleText.swift in Sources */,
 				9564817723A2454A002A8010 /* Animate_Trim.swift in Sources */,
+				9564817F23A27E9F002A8010 /* Challenge.swift in Sources */,
 				9564817C23A260A2002A8010 /* Exercise1_TheSetup.swift in Sources */,
 				9564816523A22357002A8010 /* Animate_RotationEffect.swift in Sources */,
 				9564813823A123E3002A8010 /* ContentView.swift in Sources */,
