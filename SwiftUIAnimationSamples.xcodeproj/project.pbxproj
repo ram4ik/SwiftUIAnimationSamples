@@ -26,6 +26,7 @@
 		9564815F23A13FAE002A8010 /* Animate_HueRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564815E23A13FAE002A8010 /* Animate_HueRotation.swift */; };
 		9564816123A21DE3002A8010 /* Animated_Offset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564816023A21DE3002A8010 /* Animated_Offset.swift */; };
 		9564816323A22042002A8010 /* Animate_Opacity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564816223A22042002A8010 /* Animate_Opacity.swift */; };
+		9564816523A22357002A8010 /* Animate_RotationEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564816423A22357002A8010 /* Animate_RotationEffect.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		9564815E23A13FAE002A8010 /* Animate_HueRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_HueRotation.swift; sourceTree = "<group>"; };
 		9564816023A21DE3002A8010 /* Animated_Offset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animated_Offset.swift; sourceTree = "<group>"; };
 		9564816223A22042002A8010 /* Animate_Opacity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_Opacity.swift; sourceTree = "<group>"; };
+		9564816423A22357002A8010 /* Animate_RotationEffect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_RotationEffect.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				9564815E23A13FAE002A8010 /* Animate_HueRotation.swift */,
 				9564816023A21DE3002A8010 /* Animated_Offset.swift */,
 				9564816223A22042002A8010 /* Animate_Opacity.swift */,
+				9564816423A22357002A8010 /* Animate_RotationEffect.swift */,
 			);
 			path = SwiftUIAnimationSamples;
 			sourceTree = "<group>";
@@ -224,6 +227,7 @@
 				9564813623A123E3002A8010 /* SceneDelegate.swift in Sources */,
 				9564815B23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift in Sources */,
 				9564815323A12690002A8010 /* SubtitleText.swift in Sources */,
+				9564816523A22357002A8010 /* Animate_RotationEffect.swift in Sources */,
 				9564813823A123E3002A8010 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
