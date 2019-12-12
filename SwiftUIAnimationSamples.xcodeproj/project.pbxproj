@@ -27,6 +27,7 @@
 		9564816123A21DE3002A8010 /* Animated_Offset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564816023A21DE3002A8010 /* Animated_Offset.swift */; };
 		9564816323A22042002A8010 /* Animate_Opacity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564816223A22042002A8010 /* Animate_Opacity.swift */; };
 		9564816523A22357002A8010 /* Animate_RotationEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564816423A22357002A8010 /* Animate_RotationEffect.swift */; };
+		9564816723A227D5002A8010 /* Animate_RotationEffect_Anchor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564816623A227D5002A8010 /* Animate_RotationEffect_Anchor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		9564816023A21DE3002A8010 /* Animated_Offset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animated_Offset.swift; sourceTree = "<group>"; };
 		9564816223A22042002A8010 /* Animate_Opacity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_Opacity.swift; sourceTree = "<group>"; };
 		9564816423A22357002A8010 /* Animate_RotationEffect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_RotationEffect.swift; sourceTree = "<group>"; };
+		9564816623A227D5002A8010 /* Animate_RotationEffect_Anchor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_RotationEffect_Anchor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				9564816023A21DE3002A8010 /* Animated_Offset.swift */,
 				9564816223A22042002A8010 /* Animate_Opacity.swift */,
 				9564816423A22357002A8010 /* Animate_RotationEffect.swift */,
+				9564816623A227D5002A8010 /* Animate_RotationEffect_Anchor.swift */,
 			);
 			path = SwiftUIAnimationSamples;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				9564815F23A13FAE002A8010 /* Animate_HueRotation.swift in Sources */,
 				9564815723A12B84002A8010 /* CurveExamples.swift in Sources */,
 				9564816123A21DE3002A8010 /* Animated_Offset.swift in Sources */,
+				9564816723A227D5002A8010 /* Animate_RotationEffect_Anchor.swift in Sources */,
 				9564815523A129D3002A8010 /* Example_WithAnimation.swift in Sources */,
 				9564815123A1263A002A8010 /* TitleText.swift in Sources */,
 				9564816323A22042002A8010 /* Animate_Opacity.swift in Sources */,
