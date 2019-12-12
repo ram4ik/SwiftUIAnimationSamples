@@ -35,6 +35,7 @@
 		9564817123A23BFE002A8010 /* Animate_TextSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817023A23BFE002A8010 /* Animate_TextSize.swift */; };
 		9564817323A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817223A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift */; };
 		9564817523A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817423A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift */; };
+		9564817723A2454A002A8010 /* Animate_Trim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817623A2454A002A8010 /* Animate_Trim.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +69,7 @@
 		9564817023A23BFE002A8010 /* Animate_TextSize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_TextSize.swift; sourceTree = "<group>"; };
 		9564817223A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_TextSize_ScaleEffect.swift; sourceTree = "<group>"; };
 		9564817423A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_TextSize_ScaleEffect_Solution.swift; sourceTree = "<group>"; };
+		9564817623A2454A002A8010 /* Animate_Trim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_Trim.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 				9564817023A23BFE002A8010 /* Animate_TextSize.swift */,
 				9564817223A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift */,
 				9564817423A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift */,
+				9564817623A2454A002A8010 /* Animate_Trim.swift */,
 			);
 			path = SwiftUIAnimationSamples;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				9564813623A123E3002A8010 /* SceneDelegate.swift in Sources */,
 				9564815B23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift in Sources */,
 				9564815323A12690002A8010 /* SubtitleText.swift in Sources */,
+				9564817723A2454A002A8010 /* Animate_Trim.swift in Sources */,
 				9564816523A22357002A8010 /* Animate_RotationEffect.swift in Sources */,
 				9564813823A123E3002A8010 /* ContentView.swift in Sources */,
 			);
