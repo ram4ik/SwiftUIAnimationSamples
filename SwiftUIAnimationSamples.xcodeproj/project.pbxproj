@@ -33,6 +33,7 @@
 		9564816D23A2379B002A8010 /* Animate_ScaleEffect_Anchor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564816C23A2379B002A8010 /* Animate_ScaleEffect_Anchor.swift */; };
 		9564816F23A23A5C002A8010 /* Animate_RoundedCorners.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564816E23A23A5C002A8010 /* Animate_RoundedCorners.swift */; };
 		9564817123A23BFE002A8010 /* Animate_TextSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817023A23BFE002A8010 /* Animate_TextSize.swift */; };
+		9564817323A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817223A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		9564816C23A2379B002A8010 /* Animate_ScaleEffect_Anchor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_ScaleEffect_Anchor.swift; sourceTree = "<group>"; };
 		9564816E23A23A5C002A8010 /* Animate_RoundedCorners.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_RoundedCorners.swift; sourceTree = "<group>"; };
 		9564817023A23BFE002A8010 /* Animate_TextSize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_TextSize.swift; sourceTree = "<group>"; };
+		9564817223A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_TextSize_ScaleEffect.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 				9564816C23A2379B002A8010 /* Animate_ScaleEffect_Anchor.swift */,
 				9564816E23A23A5C002A8010 /* Animate_RoundedCorners.swift */,
 				9564817023A23BFE002A8010 /* Animate_TextSize.swift */,
+				9564817223A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift */,
 			);
 			path = SwiftUIAnimationSamples;
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 				9564815523A129D3002A8010 /* Example_WithAnimation.swift in Sources */,
 				9564815123A1263A002A8010 /* TitleText.swift in Sources */,
 				9564816F23A23A5C002A8010 /* Animate_RoundedCorners.swift in Sources */,
+				9564817323A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift in Sources */,
 				9564816323A22042002A8010 /* Animate_Opacity.swift in Sources */,
 				9564817123A23BFE002A8010 /* Animate_TextSize.swift in Sources */,
 				9564816923A2344D002A8010 /* Animate_Size_Frame.swift in Sources */,
