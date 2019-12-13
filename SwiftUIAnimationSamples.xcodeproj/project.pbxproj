@@ -57,6 +57,7 @@
 		956481A123A3B28D002A8010 /* ChallengeExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A023A3B28D002A8010 /* ChallengeExercise.swift */; };
 		956481A423A3BA20002A8010 /* Duration_Parametrs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A323A3BA20002A8010 /* Duration_Parametrs.swift */; };
 		956481A623A3BC95002A8010 /* Duration_Long_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A523A3BC95002A8010 /* Duration_Long_Example.swift */; };
+		956481A823A3BE53002A8010 /* DelayAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A723A3BE53002A8010 /* DelayAnimation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -112,6 +113,7 @@
 		956481A023A3B28D002A8010 /* ChallengeExercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeExercise.swift; sourceTree = "<group>"; };
 		956481A323A3BA20002A8010 /* Duration_Parametrs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Duration_Parametrs.swift; sourceTree = "<group>"; };
 		956481A523A3BC95002A8010 /* Duration_Long_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Duration_Long_Example.swift; sourceTree = "<group>"; };
+		956481A723A3BE53002A8010 /* DelayAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DelayAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -267,6 +269,7 @@
 			children = (
 				956481A323A3BA20002A8010 /* Duration_Parametrs.swift */,
 				956481A523A3BC95002A8010 /* Duration_Long_Example.swift */,
+				956481A723A3BE53002A8010 /* DelayAnimation.swift */,
 			);
 			path = AnimationDuration;
 			sourceTree = "<group>";
@@ -356,6 +359,7 @@
 				9564817523A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift in Sources */,
 				9564816123A21DE3002A8010 /* Animated_Offset.swift in Sources */,
 				9564816D23A2379B002A8010 /* Animate_ScaleEffect_Anchor.swift in Sources */,
+				956481A823A3BE53002A8010 /* DelayAnimation.swift in Sources */,
 				956481A423A3BA20002A8010 /* Duration_Parametrs.swift in Sources */,
 				9564816723A227D5002A8010 /* Animate_RotationEffect_Anchor.swift in Sources */,
 				9564818623A37263002A8010 /* Trigger_SegmentedControl.swift in Sources */,
