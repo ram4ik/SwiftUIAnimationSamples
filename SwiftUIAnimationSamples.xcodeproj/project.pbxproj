@@ -56,6 +56,7 @@
 		9564819F23A3A25E002A8010 /* Popup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819E23A3A25E002A8010 /* Popup.swift */; };
 		956481A123A3B28D002A8010 /* ChallengeExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A023A3B28D002A8010 /* ChallengeExercise.swift */; };
 		956481A423A3BA20002A8010 /* Duration_Parametrs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A323A3BA20002A8010 /* Duration_Parametrs.swift */; };
+		956481A623A3BC95002A8010 /* Duration_Long_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A523A3BC95002A8010 /* Duration_Long_Example.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -110,6 +111,7 @@
 		9564819E23A3A25E002A8010 /* Popup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Popup.swift; sourceTree = "<group>"; };
 		956481A023A3B28D002A8010 /* ChallengeExercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeExercise.swift; sourceTree = "<group>"; };
 		956481A323A3BA20002A8010 /* Duration_Parametrs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Duration_Parametrs.swift; sourceTree = "<group>"; };
+		956481A523A3BC95002A8010 /* Duration_Long_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Duration_Long_Example.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -264,6 +266,7 @@
 			isa = PBXGroup;
 			children = (
 				956481A323A3BA20002A8010 /* Duration_Parametrs.swift */,
+				956481A523A3BC95002A8010 /* Duration_Long_Example.swift */,
 			);
 			path = AnimationDuration;
 			sourceTree = "<group>";
@@ -348,6 +351,7 @@
 				9564819A23A397BD002A8010 /* Trigger_Gesture_Rotation.swift in Sources */,
 				9564815723A12B84002A8010 /* CurveExamples.swift in Sources */,
 				956481A123A3B28D002A8010 /* ChallengeExercise.swift in Sources */,
+				956481A623A3BC95002A8010 /* Duration_Long_Example.swift in Sources */,
 				9564818C23A37CF3002A8010 /* Trigger_Toggle.swift in Sources */,
 				9564817523A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift in Sources */,
 				9564816123A21DE3002A8010 /* Animated_Offset.swift in Sources */,
