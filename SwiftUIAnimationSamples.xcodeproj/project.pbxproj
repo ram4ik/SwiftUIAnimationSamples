@@ -59,6 +59,7 @@
 		956481A623A3BC95002A8010 /* Duration_Long_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A523A3BC95002A8010 /* Duration_Long_Example.swift */; };
 		956481A823A3BE53002A8010 /* DelayAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A723A3BE53002A8010 /* DelayAnimation.swift */; };
 		956481AA23A3C07C002A8010 /* Delay_SequenceAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A923A3C07C002A8010 /* Delay_SequenceAnimation.swift */; };
+		956481AC23A3C3D7002A8010 /* Repeating_RepeatCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481AB23A3C3D7002A8010 /* Repeating_RepeatCount.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -116,6 +117,7 @@
 		956481A523A3BC95002A8010 /* Duration_Long_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Duration_Long_Example.swift; sourceTree = "<group>"; };
 		956481A723A3BE53002A8010 /* DelayAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DelayAnimation.swift; sourceTree = "<group>"; };
 		956481A923A3C07C002A8010 /* Delay_SequenceAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Delay_SequenceAnimation.swift; sourceTree = "<group>"; };
+		956481AB23A3C3D7002A8010 /* Repeating_RepeatCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repeating_RepeatCount.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -273,6 +275,7 @@
 				956481A523A3BC95002A8010 /* Duration_Long_Example.swift */,
 				956481A723A3BE53002A8010 /* DelayAnimation.swift */,
 				956481A923A3C07C002A8010 /* Delay_SequenceAnimation.swift */,
+				956481AB23A3C3D7002A8010 /* Repeating_RepeatCount.swift */,
 			);
 			path = AnimationDuration;
 			sourceTree = "<group>";
@@ -394,6 +397,7 @@
 				9564817F23A27E9F002A8010 /* Challenge.swift in Sources */,
 				9564817C23A260A2002A8010 /* Exercise1_TheSetup.swift in Sources */,
 				9564816523A22357002A8010 /* Animate_RotationEffect.swift in Sources */,
+				956481AC23A3C3D7002A8010 /* Repeating_RepeatCount.swift in Sources */,
 				9564813823A123E3002A8010 /* ContentView.swift in Sources */,
 				9564819F23A3A25E002A8010 /* Popup.swift in Sources */,
 				9564819823A3950A002A8010 /* Trigger_Gesture_Magnification.swift in Sources */,
