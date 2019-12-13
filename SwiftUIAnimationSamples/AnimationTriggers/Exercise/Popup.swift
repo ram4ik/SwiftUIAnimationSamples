@@ -36,7 +36,14 @@ struct Popup: View {
                     Spacer()
                     Text("You can also tap outside of the popup ro close")
                     Spacer()
-                }
+                    Button("Or Tap This Button ti Close") {
+                        // Dismiss group
+                    }.padding()
+                }.frame(height: 300)
+                .background(Color.white)
+                .cornerRadius(20)
+                .shadow(radius: 20)
+                    .padding(.horizontal, 25)
             }
         }
     }
