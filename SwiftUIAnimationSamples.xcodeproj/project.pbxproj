@@ -47,6 +47,7 @@
 		9564818C23A37CF3002A8010 /* Trigger_Toggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818B23A37CF3002A8010 /* Trigger_Toggle.swift */; };
 		9564818E23A37F26002A8010 /* Trigger_OnAppear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818D23A37F26002A8010 /* Trigger_OnAppear.swift */; };
 		9564819023A384DC002A8010 /* Trigger_OnDisappear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818F23A384DC002A8010 /* Trigger_OnDisappear.swift */; };
+		9564819223A3879B002A8010 /* Trigger_Gesture_Drag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819123A3879B002A8010 /* Trigger_Gesture_Drag.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -92,6 +93,7 @@
 		9564818B23A37CF3002A8010 /* Trigger_Toggle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Toggle.swift; sourceTree = "<group>"; };
 		9564818D23A37F26002A8010 /* Trigger_OnAppear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_OnAppear.swift; sourceTree = "<group>"; };
 		9564818F23A384DC002A8010 /* Trigger_OnDisappear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_OnDisappear.swift; sourceTree = "<group>"; };
+		9564819123A3879B002A8010 /* Trigger_Gesture_Drag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Gesture_Drag.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -221,6 +223,7 @@
 				9564818B23A37CF3002A8010 /* Trigger_Toggle.swift */,
 				9564818D23A37F26002A8010 /* Trigger_OnAppear.swift */,
 				9564818F23A384DC002A8010 /* Trigger_OnDisappear.swift */,
+				9564819123A3879B002A8010 /* Trigger_Gesture_Drag.swift */,
 			);
 			path = AnimationTriggers;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 			files = (
 				9564814F23A1254A002A8010 /* BannerText.swift in Sources */,
 				9564814923A12442002A8010 /* Example_NoAnimation.swift in Sources */,
+				9564819223A3879B002A8010 /* Trigger_Gesture_Drag.swift in Sources */,
 				9564818123A28321002A8010 /* Challenge_2.swift in Sources */,
 				9564815F23A13FAE002A8010 /* Animate_HueRotation.swift in Sources */,
 				9564815723A12B84002A8010 /* CurveExamples.swift in Sources */,
