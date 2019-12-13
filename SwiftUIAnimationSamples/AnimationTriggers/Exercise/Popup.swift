@@ -20,6 +20,24 @@ struct Popup: View {
                     // Show popup
                 }
             }.font(.title)
+            
+            // The popup
+            ZStack {
+                // Background transparent color
+                Color.black
+                    .opacity(0.4)
+                    .edgesIgnoringSafeArea(.all)
+                
+                VStack(spacing: 20) {
+                    Text("Drag popup off the screen")
+                        .padding()
+                        .frame(maxWidth: .infinity)
+                        .background(Color.yellow)
+                    Spacer()
+                    Text("You can also tap outside of the popup ro close")
+                    Spacer()
+                }
+            }
         }
     }
 }
