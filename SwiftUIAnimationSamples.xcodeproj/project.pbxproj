@@ -44,6 +44,7 @@
 		9564818623A37263002A8010 /* Trigger_SegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818523A37263002A8010 /* Trigger_SegmentedControl.swift */; };
 		9564818823A37863002A8010 /* Trigger_Slider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818723A37863002A8010 /* Trigger_Slider.swift */; };
 		9564818A23A379D9002A8010 /* Trigger_Stepper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818923A379D9002A8010 /* Trigger_Stepper.swift */; };
+		9564818C23A37CF3002A8010 /* Trigger_Toggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818B23A37CF3002A8010 /* Trigger_Toggle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -86,6 +87,7 @@
 		9564818523A37263002A8010 /* Trigger_SegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_SegmentedControl.swift; sourceTree = "<group>"; };
 		9564818723A37863002A8010 /* Trigger_Slider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Slider.swift; sourceTree = "<group>"; };
 		9564818923A379D9002A8010 /* Trigger_Stepper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Stepper.swift; sourceTree = "<group>"; };
+		9564818B23A37CF3002A8010 /* Trigger_Toggle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Toggle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -212,6 +214,7 @@
 				9564818523A37263002A8010 /* Trigger_SegmentedControl.swift */,
 				9564818723A37863002A8010 /* Trigger_Slider.swift */,
 				9564818923A379D9002A8010 /* Trigger_Stepper.swift */,
+				9564818B23A37CF3002A8010 /* Trigger_Toggle.swift */,
 			);
 			path = AnimationTriggers;
 			sourceTree = "<group>";
@@ -292,6 +295,7 @@
 				9564818123A28321002A8010 /* Challenge_2.swift in Sources */,
 				9564815F23A13FAE002A8010 /* Animate_HueRotation.swift in Sources */,
 				9564815723A12B84002A8010 /* CurveExamples.swift in Sources */,
+				9564818C23A37CF3002A8010 /* Trigger_Toggle.swift in Sources */,
 				9564817523A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift in Sources */,
 				9564816123A21DE3002A8010 /* Animated_Offset.swift in Sources */,
 				9564816D23A2379B002A8010 /* Animate_ScaleEffect_Anchor.swift in Sources */,
