@@ -65,6 +65,7 @@
 		956481B323A3CA3B002A8010 /* Scope_DifferentAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B223A3CA3B002A8010 /* Scope_DifferentAnimations.swift */; };
 		956481B523A3CBF0002A8010 /* Scope_WithAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B423A3CBF0002A8010 /* Scope_WithAnimation.swift */; };
 		956481B723A3D795002A8010 /* Exercise_AnimationOptions_Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B623A3D795002A8010 /* Exercise_AnimationOptions_Sequence.swift */; };
+		956481BB23A3DE8A002A8010 /* Speed_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481BA23A3DE8A002A8010 /* Speed_Intro.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -129,6 +130,7 @@
 		956481B423A3CBF0002A8010 /* Scope_WithAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scope_WithAnimation.swift; sourceTree = "<group>"; };
 		956481B623A3D795002A8010 /* Exercise_AnimationOptions_Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise_AnimationOptions_Sequence.swift; sourceTree = "<group>"; };
 		956481B823A3DC7D002A8010 /* DIN Condensed Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DIN Condensed Bold.ttf"; sourceTree = "<group>"; };
+		956481BA23A3DE8A002A8010 /* Speed_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Speed_Intro.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,6 +163,7 @@
 		9564813223A123E3002A8010 /* SwiftUIAnimationSamples */ = {
 			isa = PBXGroup;
 			children = (
+				956481B923A3DE55002A8010 /* MultiplyingAnimationSpeed */,
 				956481AD23A3C66E002A8010 /* AnimationScope */,
 				956481A223A3B9F7002A8010 /* AnimationDuration */,
 				9564818223A28898002A8010 /* AnimationTriggers */,
@@ -305,6 +308,14 @@
 			path = AnimationScope;
 			sourceTree = "<group>";
 		};
+		956481B923A3DE55002A8010 /* MultiplyingAnimationSpeed */ = {
+			isa = PBXGroup;
+			children = (
+				956481BA23A3DE8A002A8010 /* Speed_Intro.swift */,
+			);
+			path = MultiplyingAnimationSpeed;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -376,6 +387,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				956481BB23A3DE8A002A8010 /* Speed_Intro.swift in Sources */,
 				9564819623A392A8002A8010 /* Trogger_Gesture_Tap.swift in Sources */,
 				9564814F23A1254A002A8010 /* BannerText.swift in Sources */,
 				956481AF23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift in Sources */,
