@@ -26,7 +26,7 @@ struct Repeating_RepeatCount: View {
                     .stroke(Color.green, lineWidth: 4)
                     .scaleEffect(start ? 2 : 1)
                     .opacity(start ? 0 : 1)
-            ).animation(Animation.easeOut(duration: 0.6).repeatCount(3))
+            ).animation(Animation.easeOut(duration: 0.6).repeatCount(3, autoreverses: false))
             Spacer()
         }.font(.title)
     }
