@@ -41,6 +41,7 @@
 		9564817F23A27E9F002A8010 /* Challenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564817E23A27E9F002A8010 /* Challenge.swift */; };
 		9564818123A28321002A8010 /* Challenge_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818023A28321002A8010 /* Challenge_2.swift */; };
 		9564818423A288B6002A8010 /* TriggerButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818323A288B6002A8010 /* TriggerButton.swift */; };
+		9564818623A37263002A8010 /* Trigger_SegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818523A37263002A8010 /* Trigger_SegmentedControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		9564817E23A27E9F002A8010 /* Challenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge.swift; sourceTree = "<group>"; };
 		9564818023A28321002A8010 /* Challenge_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge_2.swift; sourceTree = "<group>"; };
 		9564818323A288B6002A8010 /* TriggerButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriggerButton.swift; sourceTree = "<group>"; };
+		9564818523A37263002A8010 /* Trigger_SegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_SegmentedControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -203,6 +205,7 @@
 			isa = PBXGroup;
 			children = (
 				9564818323A288B6002A8010 /* TriggerButton.swift */,
+				9564818523A37263002A8010 /* Trigger_SegmentedControl.swift */,
 			);
 			path = AnimationTriggers;
 			sourceTree = "<group>";
@@ -287,6 +290,7 @@
 				9564816123A21DE3002A8010 /* Animated_Offset.swift in Sources */,
 				9564816D23A2379B002A8010 /* Animate_ScaleEffect_Anchor.swift in Sources */,
 				9564816723A227D5002A8010 /* Animate_RotationEffect_Anchor.swift in Sources */,
+				9564818623A37263002A8010 /* Trigger_SegmentedControl.swift in Sources */,
 				9564816B23A23620002A8010 /* Animate_Size_ScaleEffect.swift in Sources */,
 				9564815523A129D3002A8010 /* Example_WithAnimation.swift in Sources */,
 				9564817A23A248AD002A8010 /* PutItAllTogether.swift in Sources */,
