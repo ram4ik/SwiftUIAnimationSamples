@@ -64,6 +64,7 @@
 		956481B123A3C8DE002A8010 /* Scope_ParentAndChildren.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B023A3C8DE002A8010 /* Scope_ParentAndChildren.swift */; };
 		956481B323A3CA3B002A8010 /* Scope_DifferentAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B223A3CA3B002A8010 /* Scope_DifferentAnimations.swift */; };
 		956481B523A3CBF0002A8010 /* Scope_WithAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B423A3CBF0002A8010 /* Scope_WithAnimation.swift */; };
+		956481B723A3D795002A8010 /* Exercise_AnimationOptions_Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B623A3D795002A8010 /* Exercise_AnimationOptions_Sequence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -126,6 +127,8 @@
 		956481B023A3C8DE002A8010 /* Scope_ParentAndChildren.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scope_ParentAndChildren.swift; sourceTree = "<group>"; };
 		956481B223A3CA3B002A8010 /* Scope_DifferentAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scope_DifferentAnimations.swift; sourceTree = "<group>"; };
 		956481B423A3CBF0002A8010 /* Scope_WithAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scope_WithAnimation.swift; sourceTree = "<group>"; };
+		956481B623A3D795002A8010 /* Exercise_AnimationOptions_Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise_AnimationOptions_Sequence.swift; sourceTree = "<group>"; };
+		956481B823A3DC7D002A8010 /* DIN Condensed Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DIN Condensed Bold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -292,10 +295,12 @@
 		956481AD23A3C66E002A8010 /* AnimationScope */ = {
 			isa = PBXGroup;
 			children = (
+				956481B823A3DC7D002A8010 /* DIN Condensed Bold.ttf */,
 				956481AE23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift */,
 				956481B023A3C8DE002A8010 /* Scope_ParentAndChildren.swift */,
 				956481B223A3CA3B002A8010 /* Scope_DifferentAnimations.swift */,
 				956481B423A3CBF0002A8010 /* Scope_WithAnimation.swift */,
+				956481B623A3D795002A8010 /* Exercise_AnimationOptions_Sequence.swift */,
 			);
 			path = AnimationScope;
 			sourceTree = "<group>";
@@ -420,6 +425,7 @@
 				9564817723A2454A002A8010 /* Animate_Trim.swift in Sources */,
 				9564817F23A27E9F002A8010 /* Challenge.swift in Sources */,
 				9564817C23A260A2002A8010 /* Exercise1_TheSetup.swift in Sources */,
+				956481B723A3D795002A8010 /* Exercise_AnimationOptions_Sequence.swift in Sources */,
 				9564816523A22357002A8010 /* Animate_RotationEffect.swift in Sources */,
 				956481AC23A3C3D7002A8010 /* Repeating_RepeatCount.swift in Sources */,
 				9564813823A123E3002A8010 /* ContentView.swift in Sources */,
