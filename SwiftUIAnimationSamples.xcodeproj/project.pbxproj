@@ -48,6 +48,7 @@
 		9564818E23A37F26002A8010 /* Trigger_OnAppear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818D23A37F26002A8010 /* Trigger_OnAppear.swift */; };
 		9564819023A384DC002A8010 /* Trigger_OnDisappear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818F23A384DC002A8010 /* Trigger_OnDisappear.swift */; };
 		9564819223A3879B002A8010 /* Trigger_Gesture_Drag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819123A3879B002A8010 /* Trigger_Gesture_Drag.swift */; };
+		9564819423A38F6A002A8010 /* Trigger_Gesture_LongPress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819323A38F6A002A8010 /* Trigger_Gesture_LongPress.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -94,6 +95,7 @@
 		9564818D23A37F26002A8010 /* Trigger_OnAppear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_OnAppear.swift; sourceTree = "<group>"; };
 		9564818F23A384DC002A8010 /* Trigger_OnDisappear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_OnDisappear.swift; sourceTree = "<group>"; };
 		9564819123A3879B002A8010 /* Trigger_Gesture_Drag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Gesture_Drag.swift; sourceTree = "<group>"; };
+		9564819323A38F6A002A8010 /* Trigger_Gesture_LongPress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Gesture_LongPress.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -224,6 +226,7 @@
 				9564818D23A37F26002A8010 /* Trigger_OnAppear.swift */,
 				9564818F23A384DC002A8010 /* Trigger_OnDisappear.swift */,
 				9564819123A3879B002A8010 /* Trigger_Gesture_Drag.swift */,
+				9564819323A38F6A002A8010 /* Trigger_Gesture_LongPress.swift */,
 			);
 			path = AnimationTriggers;
 			sourceTree = "<group>";
@@ -329,6 +332,7 @@
 				9564813623A123E3002A8010 /* SceneDelegate.swift in Sources */,
 				9564818823A37863002A8010 /* Trigger_Slider.swift in Sources */,
 				9564815B23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift in Sources */,
+				9564819423A38F6A002A8010 /* Trigger_Gesture_LongPress.swift in Sources */,
 				9564815323A12690002A8010 /* SubtitleText.swift in Sources */,
 				9564819023A384DC002A8010 /* Trigger_OnDisappear.swift in Sources */,
 				9564818E23A37F26002A8010 /* Trigger_OnAppear.swift in Sources */,

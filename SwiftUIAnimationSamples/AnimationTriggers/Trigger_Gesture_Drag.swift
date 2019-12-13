@@ -35,19 +35,19 @@ struct Trigger_Gesture_Drag: View {
             .frame(height: 200)
             .background(RoundedRectangle(cornerRadius: 20).fill(Color.green))
             .offset(x: 0, y: currentMenuY + menuOffset.height)
-            .gesture(
-                DragGesture()
-                    .updating($menuOffset, body: { (value, menuOffset, transaction) in
-                        menuOffset = value.translation
-                    })
-                    .onEnded({ value in
-                        if value.translation.height > 100 {
-                            self.currentMenuY = 200
-                        } else {
-                            self.currentMenuY = 0
-                        }
-                    })
-            ).animation(.default)
+//            .gesture(
+//                DragGesture()
+//                    .updating($menuOffset, body: { (value, menuOffset, transaction) in
+//                        menuOffset = value.translation
+//                    })
+//                    .onEnded({ value in
+//                        if value.translation.height > 100 {
+//                            self.currentMenuY = 200
+//                        } else {
+//                            self.currentMenuY = 0
+//                        }
+//                    })
+//            ).animation(.default)
         }.font(.title)
     }
 }
