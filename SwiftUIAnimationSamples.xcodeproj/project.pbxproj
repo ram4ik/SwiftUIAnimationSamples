@@ -60,6 +60,7 @@
 		956481A823A3BE53002A8010 /* DelayAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A723A3BE53002A8010 /* DelayAnimation.swift */; };
 		956481AA23A3C07C002A8010 /* Delay_SequenceAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A923A3C07C002A8010 /* Delay_SequenceAnimation.swift */; };
 		956481AC23A3C3D7002A8010 /* Repeating_RepeatCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481AB23A3C3D7002A8010 /* Repeating_RepeatCount.swift */; };
+		956481AF23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481AE23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -118,6 +119,7 @@
 		956481A723A3BE53002A8010 /* DelayAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DelayAnimation.swift; sourceTree = "<group>"; };
 		956481A923A3C07C002A8010 /* Delay_SequenceAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Delay_SequenceAnimation.swift; sourceTree = "<group>"; };
 		956481AB23A3C3D7002A8010 /* Repeating_RepeatCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repeating_RepeatCount.swift; sourceTree = "<group>"; };
+		956481AE23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scope_SequenceOnSignView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 		9564813223A123E3002A8010 /* SwiftUIAnimationSamples */ = {
 			isa = PBXGroup;
 			children = (
+				956481AD23A3C66E002A8010 /* AnimationScope */,
 				956481A223A3B9F7002A8010 /* AnimationDuration */,
 				9564818223A28898002A8010 /* AnimationTriggers */,
 				9564814D23A12533002A8010 /* Utils */,
@@ -280,6 +283,14 @@
 			path = AnimationDuration;
 			sourceTree = "<group>";
 		};
+		956481AD23A3C66E002A8010 /* AnimationScope */ = {
+			isa = PBXGroup;
+			children = (
+				956481AE23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift */,
+			);
+			path = AnimationScope;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -353,6 +364,7 @@
 			files = (
 				9564819623A392A8002A8010 /* Trogger_Gesture_Tap.swift in Sources */,
 				9564814F23A1254A002A8010 /* BannerText.swift in Sources */,
+				956481AF23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift in Sources */,
 				9564814923A12442002A8010 /* Example_NoAnimation.swift in Sources */,
 				9564819223A3879B002A8010 /* Trigger_Gesture_Drag.swift in Sources */,
 				9564818123A28321002A8010 /* Challenge_2.swift in Sources */,
