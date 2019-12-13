@@ -52,6 +52,7 @@
 		9564819623A392A8002A8010 /* Trogger_Gesture_Tap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819523A392A8002A8010 /* Trogger_Gesture_Tap.swift */; };
 		9564819823A3950A002A8010 /* Trigger_Gesture_Magnification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819723A3950A002A8010 /* Trigger_Gesture_Magnification.swift */; };
 		9564819A23A397BD002A8010 /* Trigger_Gesture_Rotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819923A397BD002A8010 /* Trigger_Gesture_Rotation.swift */; };
+		9564819C23A39AC9002A8010 /* Trigger_ScrollLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819B23A39AC9002A8010 /* Trigger_ScrollLocation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -102,6 +103,7 @@
 		9564819523A392A8002A8010 /* Trogger_Gesture_Tap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trogger_Gesture_Tap.swift; sourceTree = "<group>"; };
 		9564819723A3950A002A8010 /* Trigger_Gesture_Magnification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Gesture_Magnification.swift; sourceTree = "<group>"; };
 		9564819923A397BD002A8010 /* Trigger_Gesture_Rotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Gesture_Rotation.swift; sourceTree = "<group>"; };
+		9564819B23A39AC9002A8010 /* Trigger_ScrollLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_ScrollLocation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -236,6 +238,7 @@
 				9564819523A392A8002A8010 /* Trogger_Gesture_Tap.swift */,
 				9564819723A3950A002A8010 /* Trigger_Gesture_Magnification.swift */,
 				9564819923A397BD002A8010 /* Trigger_Gesture_Rotation.swift */,
+				9564819B23A39AC9002A8010 /* Trigger_ScrollLocation.swift */,
 			);
 			path = AnimationTriggers;
 			sourceTree = "<group>";
@@ -329,6 +332,7 @@
 				9564815523A129D3002A8010 /* Example_WithAnimation.swift in Sources */,
 				9564817A23A248AD002A8010 /* PutItAllTogether.swift in Sources */,
 				9564815123A1263A002A8010 /* TitleText.swift in Sources */,
+				9564819C23A39AC9002A8010 /* Trigger_ScrollLocation.swift in Sources */,
 				9564816F23A23A5C002A8010 /* Animate_RoundedCorners.swift in Sources */,
 				9564817323A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift in Sources */,
 				9564818423A288B6002A8010 /* TriggerButton.swift in Sources */,
