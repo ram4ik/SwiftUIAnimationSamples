@@ -43,6 +43,7 @@
 		9564818423A288B6002A8010 /* TriggerButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818323A288B6002A8010 /* TriggerButton.swift */; };
 		9564818623A37263002A8010 /* Trigger_SegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818523A37263002A8010 /* Trigger_SegmentedControl.swift */; };
 		9564818823A37863002A8010 /* Trigger_Slider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818723A37863002A8010 /* Trigger_Slider.swift */; };
+		9564818A23A379D9002A8010 /* Trigger_Stepper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564818923A379D9002A8010 /* Trigger_Stepper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -84,6 +85,7 @@
 		9564818323A288B6002A8010 /* TriggerButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriggerButton.swift; sourceTree = "<group>"; };
 		9564818523A37263002A8010 /* Trigger_SegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_SegmentedControl.swift; sourceTree = "<group>"; };
 		9564818723A37863002A8010 /* Trigger_Slider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Slider.swift; sourceTree = "<group>"; };
+		9564818923A379D9002A8010 /* Trigger_Stepper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Stepper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -209,6 +211,7 @@
 				9564818323A288B6002A8010 /* TriggerButton.swift */,
 				9564818523A37263002A8010 /* Trigger_SegmentedControl.swift */,
 				9564818723A37863002A8010 /* Trigger_Slider.swift */,
+				9564818923A379D9002A8010 /* Trigger_Stepper.swift */,
 			);
 			path = AnimationTriggers;
 			sourceTree = "<group>";
@@ -308,6 +311,7 @@
 				9564815D23A13DDF002A8010 /* AnimatableProperties.swift in Sources */,
 				9564815923A1340B002A8010 /* ChalengeRecreateAnimation.swift in Sources */,
 				9564814C23A124C8002A8010 /* Conventions.swift in Sources */,
+				9564818A23A379D9002A8010 /* Trigger_Stepper.swift in Sources */,
 				9564813623A123E3002A8010 /* SceneDelegate.swift in Sources */,
 				9564818823A37863002A8010 /* Trigger_Slider.swift in Sources */,
 				9564815B23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift in Sources */,
