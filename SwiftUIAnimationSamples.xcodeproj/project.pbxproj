@@ -58,6 +58,7 @@
 		956481A423A3BA20002A8010 /* Duration_Parametrs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A323A3BA20002A8010 /* Duration_Parametrs.swift */; };
 		956481A623A3BC95002A8010 /* Duration_Long_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A523A3BC95002A8010 /* Duration_Long_Example.swift */; };
 		956481A823A3BE53002A8010 /* DelayAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A723A3BE53002A8010 /* DelayAnimation.swift */; };
+		956481AA23A3C07C002A8010 /* Delay_SequenceAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A923A3C07C002A8010 /* Delay_SequenceAnimation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -114,6 +115,7 @@
 		956481A323A3BA20002A8010 /* Duration_Parametrs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Duration_Parametrs.swift; sourceTree = "<group>"; };
 		956481A523A3BC95002A8010 /* Duration_Long_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Duration_Long_Example.swift; sourceTree = "<group>"; };
 		956481A723A3BE53002A8010 /* DelayAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DelayAnimation.swift; sourceTree = "<group>"; };
+		956481A923A3C07C002A8010 /* Delay_SequenceAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Delay_SequenceAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -270,6 +272,7 @@
 				956481A323A3BA20002A8010 /* Duration_Parametrs.swift */,
 				956481A523A3BC95002A8010 /* Duration_Long_Example.swift */,
 				956481A723A3BE53002A8010 /* DelayAnimation.swift */,
+				956481A923A3C07C002A8010 /* Delay_SequenceAnimation.swift */,
 			);
 			path = AnimationDuration;
 			sourceTree = "<group>";
@@ -365,6 +368,7 @@
 				9564818623A37263002A8010 /* Trigger_SegmentedControl.swift in Sources */,
 				9564816B23A23620002A8010 /* Animate_Size_ScaleEffect.swift in Sources */,
 				9564815523A129D3002A8010 /* Example_WithAnimation.swift in Sources */,
+				956481AA23A3C07C002A8010 /* Delay_SequenceAnimation.swift in Sources */,
 				9564817A23A248AD002A8010 /* PutItAllTogether.swift in Sources */,
 				9564815123A1263A002A8010 /* TitleText.swift in Sources */,
 				9564819C23A39AC9002A8010 /* Trigger_ScrollLocation.swift in Sources */,
