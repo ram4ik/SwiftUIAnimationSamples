@@ -55,6 +55,7 @@
 		9564819C23A39AC9002A8010 /* Trigger_ScrollLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819B23A39AC9002A8010 /* Trigger_ScrollLocation.swift */; };
 		9564819F23A3A25E002A8010 /* Popup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819E23A3A25E002A8010 /* Popup.swift */; };
 		956481A123A3B28D002A8010 /* ChallengeExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A023A3B28D002A8010 /* ChallengeExercise.swift */; };
+		956481A423A3BA20002A8010 /* Duration_Parametrs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481A323A3BA20002A8010 /* Duration_Parametrs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -108,6 +109,7 @@
 		9564819B23A39AC9002A8010 /* Trigger_ScrollLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_ScrollLocation.swift; sourceTree = "<group>"; };
 		9564819E23A3A25E002A8010 /* Popup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Popup.swift; sourceTree = "<group>"; };
 		956481A023A3B28D002A8010 /* ChallengeExercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeExercise.swift; sourceTree = "<group>"; };
+		956481A323A3BA20002A8010 /* Duration_Parametrs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Duration_Parametrs.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 		9564813223A123E3002A8010 /* SwiftUIAnimationSamples */ = {
 			isa = PBXGroup;
 			children = (
+				956481A223A3B9F7002A8010 /* AnimationDuration */,
 				9564818223A28898002A8010 /* AnimationTriggers */,
 				9564814D23A12533002A8010 /* Utils */,
 				9564814A23A124B4002A8010 /* Template */,
@@ -257,6 +260,14 @@
 			path = Exercise;
 			sourceTree = "<group>";
 		};
+		956481A223A3B9F7002A8010 /* AnimationDuration */ = {
+			isa = PBXGroup;
+			children = (
+				956481A323A3BA20002A8010 /* Duration_Parametrs.swift */,
+			);
+			path = AnimationDuration;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -341,6 +352,7 @@
 				9564817523A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift in Sources */,
 				9564816123A21DE3002A8010 /* Animated_Offset.swift in Sources */,
 				9564816D23A2379B002A8010 /* Animate_ScaleEffect_Anchor.swift in Sources */,
+				956481A423A3BA20002A8010 /* Duration_Parametrs.swift in Sources */,
 				9564816723A227D5002A8010 /* Animate_RotationEffect_Anchor.swift in Sources */,
 				9564818623A37263002A8010 /* Trigger_SegmentedControl.swift in Sources */,
 				9564816B23A23620002A8010 /* Animate_Size_ScaleEffect.swift in Sources */,
