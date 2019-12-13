@@ -51,6 +51,7 @@
 		9564819423A38F6A002A8010 /* Trigger_Gesture_LongPress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819323A38F6A002A8010 /* Trigger_Gesture_LongPress.swift */; };
 		9564819623A392A8002A8010 /* Trogger_Gesture_Tap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819523A392A8002A8010 /* Trogger_Gesture_Tap.swift */; };
 		9564819823A3950A002A8010 /* Trigger_Gesture_Magnification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819723A3950A002A8010 /* Trigger_Gesture_Magnification.swift */; };
+		9564819A23A397BD002A8010 /* Trigger_Gesture_Rotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564819923A397BD002A8010 /* Trigger_Gesture_Rotation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -100,6 +101,7 @@
 		9564819323A38F6A002A8010 /* Trigger_Gesture_LongPress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Gesture_LongPress.swift; sourceTree = "<group>"; };
 		9564819523A392A8002A8010 /* Trogger_Gesture_Tap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trogger_Gesture_Tap.swift; sourceTree = "<group>"; };
 		9564819723A3950A002A8010 /* Trigger_Gesture_Magnification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Gesture_Magnification.swift; sourceTree = "<group>"; };
+		9564819923A397BD002A8010 /* Trigger_Gesture_Rotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trigger_Gesture_Rotation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -233,6 +235,7 @@
 				9564819323A38F6A002A8010 /* Trigger_Gesture_LongPress.swift */,
 				9564819523A392A8002A8010 /* Trogger_Gesture_Tap.swift */,
 				9564819723A3950A002A8010 /* Trigger_Gesture_Magnification.swift */,
+				9564819923A397BD002A8010 /* Trigger_Gesture_Rotation.swift */,
 			);
 			path = AnimationTriggers;
 			sourceTree = "<group>";
@@ -314,6 +317,7 @@
 				9564819223A3879B002A8010 /* Trigger_Gesture_Drag.swift in Sources */,
 				9564818123A28321002A8010 /* Challenge_2.swift in Sources */,
 				9564815F23A13FAE002A8010 /* Animate_HueRotation.swift in Sources */,
+				9564819A23A397BD002A8010 /* Trigger_Gesture_Rotation.swift in Sources */,
 				9564815723A12B84002A8010 /* CurveExamples.swift in Sources */,
 				9564818C23A37CF3002A8010 /* Trigger_Toggle.swift in Sources */,
 				9564817523A24380002A8010 /* Animate_TextSize_ScaleEffect_Solution.swift in Sources */,
