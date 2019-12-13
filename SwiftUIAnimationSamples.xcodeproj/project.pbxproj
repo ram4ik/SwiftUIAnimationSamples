@@ -62,6 +62,7 @@
 		956481AC23A3C3D7002A8010 /* Repeating_RepeatCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481AB23A3C3D7002A8010 /* Repeating_RepeatCount.swift */; };
 		956481AF23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481AE23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift */; };
 		956481B123A3C8DE002A8010 /* Scope_ParentAndChildren.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B023A3C8DE002A8010 /* Scope_ParentAndChildren.swift */; };
+		956481B323A3CA3B002A8010 /* Scope_DifferentAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B223A3CA3B002A8010 /* Scope_DifferentAnimations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -122,6 +123,7 @@
 		956481AB23A3C3D7002A8010 /* Repeating_RepeatCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repeating_RepeatCount.swift; sourceTree = "<group>"; };
 		956481AE23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scope_SequenceOnSignView.swift; sourceTree = "<group>"; };
 		956481B023A3C8DE002A8010 /* Scope_ParentAndChildren.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scope_ParentAndChildren.swift; sourceTree = "<group>"; };
+		956481B223A3CA3B002A8010 /* Scope_DifferentAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scope_DifferentAnimations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -290,6 +292,7 @@
 			children = (
 				956481AE23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift */,
 				956481B023A3C8DE002A8010 /* Scope_ParentAndChildren.swift */,
+				956481B223A3CA3B002A8010 /* Scope_DifferentAnimations.swift */,
 			);
 			path = AnimationScope;
 			sourceTree = "<group>";
@@ -399,6 +402,7 @@
 				9564816923A2344D002A8010 /* Animate_Size_Frame.swift in Sources */,
 				9564813423A123E3002A8010 /* AppDelegate.swift in Sources */,
 				9564815D23A13DDF002A8010 /* AnimatableProperties.swift in Sources */,
+				956481B323A3CA3B002A8010 /* Scope_DifferentAnimations.swift in Sources */,
 				9564815923A1340B002A8010 /* ChalengeRecreateAnimation.swift in Sources */,
 				9564814C23A124C8002A8010 /* Conventions.swift in Sources */,
 				9564818A23A379D9002A8010 /* Trigger_Stepper.swift in Sources */,
