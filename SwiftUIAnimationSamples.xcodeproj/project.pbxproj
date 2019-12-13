@@ -63,6 +63,7 @@
 		956481AF23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481AE23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift */; };
 		956481B123A3C8DE002A8010 /* Scope_ParentAndChildren.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B023A3C8DE002A8010 /* Scope_ParentAndChildren.swift */; };
 		956481B323A3CA3B002A8010 /* Scope_DifferentAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B223A3CA3B002A8010 /* Scope_DifferentAnimations.swift */; };
+		956481B523A3CBF0002A8010 /* Scope_WithAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B423A3CBF0002A8010 /* Scope_WithAnimation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -124,6 +125,7 @@
 		956481AE23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scope_SequenceOnSignView.swift; sourceTree = "<group>"; };
 		956481B023A3C8DE002A8010 /* Scope_ParentAndChildren.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scope_ParentAndChildren.swift; sourceTree = "<group>"; };
 		956481B223A3CA3B002A8010 /* Scope_DifferentAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scope_DifferentAnimations.swift; sourceTree = "<group>"; };
+		956481B423A3CBF0002A8010 /* Scope_WithAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scope_WithAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -293,6 +295,7 @@
 				956481AE23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift */,
 				956481B023A3C8DE002A8010 /* Scope_ParentAndChildren.swift */,
 				956481B223A3CA3B002A8010 /* Scope_DifferentAnimations.swift */,
+				956481B423A3CBF0002A8010 /* Scope_WithAnimation.swift */,
 			);
 			path = AnimationScope;
 			sourceTree = "<group>";
@@ -373,6 +376,7 @@
 				956481AF23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift in Sources */,
 				9564814923A12442002A8010 /* Example_NoAnimation.swift in Sources */,
 				9564819223A3879B002A8010 /* Trigger_Gesture_Drag.swift in Sources */,
+				956481B523A3CBF0002A8010 /* Scope_WithAnimation.swift in Sources */,
 				9564818123A28321002A8010 /* Challenge_2.swift in Sources */,
 				9564815F23A13FAE002A8010 /* Animate_HueRotation.swift in Sources */,
 				9564819A23A397BD002A8010 /* Trigger_Gesture_Rotation.swift in Sources */,
