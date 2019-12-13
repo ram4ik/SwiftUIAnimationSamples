@@ -10,6 +10,7 @@ import SwiftUI
 
 struct Popup: View {
     @State private var showPopup = true // Controls if the popup shows or not
+    @GestureState private var popupOffset = CGSize.zero // Track the distance dragged
     var body: some View {
         ZStack {
             VStack(spacing: 20) {
@@ -54,7 +55,21 @@ struct Popup: View {
                     .background(Color.white)
                     .cornerRadius(20)
                     .shadow(radius: 20)
-                        .padding(.horizontal, 25)
+                    .padding(.horizontal, 25)
+                    .offset(popupOffset) // Offset (move) the popup when dragged
+                    .gesture(
+                        DragGesture(minimumDistance: 100) // They have to drag it over 100 points
+                            .updating($popupOffset, body: { (value, popupOffset, transaction) in
+                                // Assign distance traveled (translation) to popupOffset (Gesture State variable that is bound:
+                                
+                                popupOffset = value.translation
+                            })
+                            .onEnded({ (value) in
+                                // If they dragged the popup over 100 points then just close the popup
+                                self.showPopup = false
+                            })
+                    
+                    )
                 }
             }
         }
