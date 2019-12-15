@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D75301123A6A54600214876 /* Spring_Dampen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D75301023A6A54600214876 /* Spring_Dampen.swift */; };
 		9564813423A123E3002A8010 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564813323A123E3002A8010 /* AppDelegate.swift */; };
 		9564813623A123E3002A8010 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564813523A123E3002A8010 /* SceneDelegate.swift */; };
 		9564813823A123E3002A8010 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564813723A123E3002A8010 /* ContentView.swift */; };
@@ -69,6 +70,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D75301023A6A54600214876 /* Spring_Dampen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spring_Dampen.swift; sourceTree = "<group>"; };
 		9564813023A123E3002A8010 /* SwiftUIAnimationSamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAnimationSamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9564813323A123E3002A8010 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9564813523A123E3002A8010 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -177,6 +179,7 @@
 				9564813E23A123E4002A8010 /* LaunchScreen.storyboard */,
 				9564814123A123E4002A8010 /* Info.plist */,
 				9564813B23A123E4002A8010 /* Preview Content */,
+				1D75301023A6A54600214876 /* Spring_Dampen.swift */,
 			);
 			path = SwiftUIAnimationSamples;
 			sourceTree = "<group>";
@@ -414,6 +417,7 @@
 				9564817A23A248AD002A8010 /* PutItAllTogether.swift in Sources */,
 				9564815123A1263A002A8010 /* TitleText.swift in Sources */,
 				9564819C23A39AC9002A8010 /* Trigger_ScrollLocation.swift in Sources */,
+				1D75301123A6A54600214876 /* Spring_Dampen.swift in Sources */,
 				9564816F23A23A5C002A8010 /* Animate_RoundedCorners.swift in Sources */,
 				9564817323A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift in Sources */,
 				956481B123A3C8DE002A8010 /* Scope_ParentAndChildren.swift in Sources */,
