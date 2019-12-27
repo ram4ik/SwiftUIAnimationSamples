@@ -67,6 +67,7 @@
 		956481B523A3CBF0002A8010 /* Scope_WithAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B423A3CBF0002A8010 /* Scope_WithAnimation.swift */; };
 		956481B723A3D795002A8010 /* Exercise_AnimationOptions_Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B623A3D795002A8010 /* Exercise_AnimationOptions_Sequence.swift */; };
 		956481BB23A3DE8A002A8010 /* Speed_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481BA23A3DE8A002A8010 /* Speed_Intro.swift */; };
+		95A8671523B6046C00055085 /* AnyTranstions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A8671423B6046C00055085 /* AnyTranstions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -133,6 +134,7 @@
 		956481B623A3D795002A8010 /* Exercise_AnimationOptions_Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise_AnimationOptions_Sequence.swift; sourceTree = "<group>"; };
 		956481B823A3DC7D002A8010 /* DIN Condensed Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DIN Condensed Bold.ttf"; sourceTree = "<group>"; };
 		956481BA23A3DE8A002A8010 /* Speed_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Speed_Intro.swift; sourceTree = "<group>"; };
+		95A8671423B6046C00055085 /* AnyTranstions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTranstions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,6 +167,7 @@
 		9564813223A123E3002A8010 /* SwiftUIAnimationSamples */ = {
 			isa = PBXGroup;
 			children = (
+				95A8671323B6044E00055085 /* Transitions */,
 				956481B923A3DE55002A8010 /* MultiplyingAnimationSpeed */,
 				956481AD23A3C66E002A8010 /* AnimationScope */,
 				956481A223A3B9F7002A8010 /* AnimationDuration */,
@@ -319,6 +322,14 @@
 			path = MultiplyingAnimationSpeed;
 			sourceTree = "<group>";
 		};
+		95A8671323B6044E00055085 /* Transitions */ = {
+			isa = PBXGroup;
+			children = (
+				95A8671423B6046C00055085 /* AnyTranstions.swift */,
+			);
+			path = Transitions;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -433,6 +444,7 @@
 				9564818A23A379D9002A8010 /* Trigger_Stepper.swift in Sources */,
 				9564813623A123E3002A8010 /* SceneDelegate.swift in Sources */,
 				9564818823A37863002A8010 /* Trigger_Slider.swift in Sources */,
+				95A8671523B6046C00055085 /* AnyTranstions.swift in Sources */,
 				9564815B23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift in Sources */,
 				9564819423A38F6A002A8010 /* Trigger_Gesture_LongPress.swift in Sources */,
 				9564815323A12690002A8010 /* SubtitleText.swift in Sources */,
