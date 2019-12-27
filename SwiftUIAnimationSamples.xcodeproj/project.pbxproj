@@ -69,6 +69,7 @@
 		956481BB23A3DE8A002A8010 /* Speed_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481BA23A3DE8A002A8010 /* Speed_Intro.swift */; };
 		95A8671523B6046C00055085 /* AnyTranstions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A8671423B6046C00055085 /* AnyTranstions.swift */; };
 		95A8671723B60F0A00055085 /* WorkingWiithTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A8671623B60F0A00055085 /* WorkingWiithTransitions.swift */; };
+		95A8671923B61BC300055085 /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A8671823B61BC300055085 /* Transitions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -137,6 +138,7 @@
 		956481BA23A3DE8A002A8010 /* Speed_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Speed_Intro.swift; sourceTree = "<group>"; };
 		95A8671423B6046C00055085 /* AnyTranstions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTranstions.swift; sourceTree = "<group>"; };
 		95A8671623B60F0A00055085 /* WorkingWiithTransitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkingWiithTransitions.swift; sourceTree = "<group>"; };
+		95A8671823B61BC300055085 /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -329,6 +331,7 @@
 			children = (
 				95A8671423B6046C00055085 /* AnyTranstions.swift */,
 				95A8671623B60F0A00055085 /* WorkingWiithTransitions.swift */,
+				95A8671823B61BC300055085 /* Transitions.swift */,
 			);
 			path = Transitions;
 			sourceTree = "<group>";
@@ -410,6 +413,7 @@
 				956481AF23A3C6A4002A8010 /* Scope_SequenceOnSignView.swift in Sources */,
 				9564814923A12442002A8010 /* Example_NoAnimation.swift in Sources */,
 				9564819223A3879B002A8010 /* Trigger_Gesture_Drag.swift in Sources */,
+				95A8671923B61BC300055085 /* Transitions.swift in Sources */,
 				956481B523A3CBF0002A8010 /* Scope_WithAnimation.swift in Sources */,
 				9564818123A28321002A8010 /* Challenge_2.swift in Sources */,
 				9564815F23A13FAE002A8010 /* Animate_HueRotation.swift in Sources */,
