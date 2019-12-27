@@ -68,6 +68,7 @@
 		956481B723A3D795002A8010 /* Exercise_AnimationOptions_Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481B623A3D795002A8010 /* Exercise_AnimationOptions_Sequence.swift */; };
 		956481BB23A3DE8A002A8010 /* Speed_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956481BA23A3DE8A002A8010 /* Speed_Intro.swift */; };
 		95A8671523B6046C00055085 /* AnyTranstions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A8671423B6046C00055085 /* AnyTranstions.swift */; };
+		95A8671723B60F0A00055085 /* WorkingWiithTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A8671623B60F0A00055085 /* WorkingWiithTransitions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -135,6 +136,7 @@
 		956481B823A3DC7D002A8010 /* DIN Condensed Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DIN Condensed Bold.ttf"; sourceTree = "<group>"; };
 		956481BA23A3DE8A002A8010 /* Speed_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Speed_Intro.swift; sourceTree = "<group>"; };
 		95A8671423B6046C00055085 /* AnyTranstions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTranstions.swift; sourceTree = "<group>"; };
+		95A8671623B60F0A00055085 /* WorkingWiithTransitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkingWiithTransitions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -326,6 +328,7 @@
 			isa = PBXGroup;
 			children = (
 				95A8671423B6046C00055085 /* AnyTranstions.swift */,
+				95A8671623B60F0A00055085 /* WorkingWiithTransitions.swift */,
 			);
 			path = Transitions;
 			sourceTree = "<group>";
@@ -433,6 +436,7 @@
 				9564817323A2412C002A8010 /* Animate_TextSize_ScaleEffect.swift in Sources */,
 				956481B123A3C8DE002A8010 /* Scope_ParentAndChildren.swift in Sources */,
 				9564818423A288B6002A8010 /* TriggerButton.swift in Sources */,
+				95A8671723B60F0A00055085 /* WorkingWiithTransitions.swift in Sources */,
 				9564816323A22042002A8010 /* Animate_Opacity.swift in Sources */,
 				9564817123A23BFE002A8010 /* Animate_TextSize.swift in Sources */,
 				9564816923A2344D002A8010 /* Animate_Size_Frame.swift in Sources */,
