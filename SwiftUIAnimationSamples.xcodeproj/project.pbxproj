@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D0A7C0F23B8AC84005C691D /* AsymmetricTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D0A7C0E23B8AC84005C691D /* AsymmetricTransitions.swift */; };
 		1D75301123A6A54600214876 /* Spring_Dampen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D75301023A6A54600214876 /* Spring_Dampen.swift */; };
 		9564813423A123E3002A8010 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564813323A123E3002A8010 /* AppDelegate.swift */; };
 		9564813623A123E3002A8010 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564813523A123E3002A8010 /* SceneDelegate.swift */; };
@@ -73,6 +74,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D0A7C0E23B8AC84005C691D /* AsymmetricTransitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsymmetricTransitions.swift; sourceTree = "<group>"; };
 		1D75301023A6A54600214876 /* Spring_Dampen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spring_Dampen.swift; sourceTree = "<group>"; };
 		9564813023A123E3002A8010 /* SwiftUIAnimationSamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAnimationSamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9564813323A123E3002A8010 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -332,6 +334,7 @@
 				95A8671423B6046C00055085 /* AnyTranstions.swift */,
 				95A8671623B60F0A00055085 /* WorkingWiithTransitions.swift */,
 				95A8671823B61BC300055085 /* Transitions.swift */,
+				1D0A7C0E23B8AC84005C691D /* AsymmetricTransitions.swift */,
 			);
 			path = Transitions;
 			sourceTree = "<group>";
@@ -434,6 +437,7 @@
 				956481AA23A3C07C002A8010 /* Delay_SequenceAnimation.swift in Sources */,
 				9564817A23A248AD002A8010 /* PutItAllTogether.swift in Sources */,
 				9564815123A1263A002A8010 /* TitleText.swift in Sources */,
+				1D0A7C0F23B8AC84005C691D /* AsymmetricTransitions.swift in Sources */,
 				9564819C23A39AC9002A8010 /* Trigger_ScrollLocation.swift in Sources */,
 				1D75301123A6A54600214876 /* Spring_Dampen.swift in Sources */,
 				9564816F23A23A5C002A8010 /* Animate_RoundedCorners.swift in Sources */,
