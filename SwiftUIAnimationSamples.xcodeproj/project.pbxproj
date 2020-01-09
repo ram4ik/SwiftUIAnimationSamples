@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1D0A7C0F23B8AC84005C691D /* AsymmetricTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D0A7C0E23B8AC84005C691D /* AsymmetricTransitions.swift */; };
 		1D52EA7423C7B35F00C2970E /* ClipShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D52EA7323C7B35F00C2970E /* ClipShape.swift */; };
+		1D52EA7723C7B5B700C2970E /* RadialGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D52EA7623C7B5B700C2970E /* RadialGradient.swift */; };
 		1D75301123A6A54600214876 /* Spring_Dampen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D75301023A6A54600214876 /* Spring_Dampen.swift */; };
 		9564813423A123E3002A8010 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564813323A123E3002A8010 /* AppDelegate.swift */; };
 		9564813623A123E3002A8010 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564813523A123E3002A8010 /* SceneDelegate.swift */; };
@@ -77,6 +78,7 @@
 /* Begin PBXFileReference section */
 		1D0A7C0E23B8AC84005C691D /* AsymmetricTransitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsymmetricTransitions.swift; sourceTree = "<group>"; };
 		1D52EA7323C7B35F00C2970E /* ClipShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClipShape.swift; sourceTree = "<group>"; };
+		1D52EA7623C7B5B700C2970E /* RadialGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadialGradient.swift; sourceTree = "<group>"; };
 		1D75301023A6A54600214876 /* Spring_Dampen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spring_Dampen.swift; sourceTree = "<group>"; };
 		9564813023A123E3002A8010 /* SwiftUIAnimationSamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAnimationSamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9564813323A123E3002A8010 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -164,6 +166,14 @@
 			path = Shape;
 			sourceTree = "<group>";
 		};
+		1D52EA7523C7B5A300C2970E /* Gradient */ = {
+			isa = PBXGroup;
+			children = (
+				1D52EA7623C7B5B700C2970E /* RadialGradient.swift */,
+			);
+			path = Gradient;
+			sourceTree = "<group>";
+		};
 		9564812723A123E3002A8010 = {
 			isa = PBXGroup;
 			children = (
@@ -183,6 +193,7 @@
 		9564813223A123E3002A8010 /* SwiftUIAnimationSamples */ = {
 			isa = PBXGroup;
 			children = (
+				1D52EA7523C7B5A300C2970E /* Gradient */,
 				1D52EA7023C7B31A00C2970E /* Shape */,
 				95A8671323B6044E00055085 /* Transitions */,
 				956481B923A3DE55002A8010 /* MultiplyingAnimationSpeed */,
@@ -483,6 +494,7 @@
 				9564813823A123E3002A8010 /* ContentView.swift in Sources */,
 				9564819F23A3A25E002A8010 /* Popup.swift in Sources */,
 				9564819823A3950A002A8010 /* Trigger_Gesture_Magnification.swift in Sources */,
+				1D52EA7723C7B5B700C2970E /* RadialGradient.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
