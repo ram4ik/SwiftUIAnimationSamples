@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1D0A7C0F23B8AC84005C691D /* AsymmetricTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D0A7C0E23B8AC84005C691D /* AsymmetricTransitions.swift */; };
+		1D52EA7423C7B35F00C2970E /* ClipShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D52EA7323C7B35F00C2970E /* ClipShape.swift */; };
 		1D75301123A6A54600214876 /* Spring_Dampen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D75301023A6A54600214876 /* Spring_Dampen.swift */; };
 		9564813423A123E3002A8010 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564813323A123E3002A8010 /* AppDelegate.swift */; };
 		9564813623A123E3002A8010 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9564813523A123E3002A8010 /* SceneDelegate.swift */; };
@@ -75,6 +76,7 @@
 
 /* Begin PBXFileReference section */
 		1D0A7C0E23B8AC84005C691D /* AsymmetricTransitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsymmetricTransitions.swift; sourceTree = "<group>"; };
+		1D52EA7323C7B35F00C2970E /* ClipShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClipShape.swift; sourceTree = "<group>"; };
 		1D75301023A6A54600214876 /* Spring_Dampen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spring_Dampen.swift; sourceTree = "<group>"; };
 		9564813023A123E3002A8010 /* SwiftUIAnimationSamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAnimationSamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9564813323A123E3002A8010 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -154,6 +156,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1D52EA7023C7B31A00C2970E /* Shape */ = {
+			isa = PBXGroup;
+			children = (
+				1D52EA7323C7B35F00C2970E /* ClipShape.swift */,
+			);
+			path = Shape;
+			sourceTree = "<group>";
+		};
 		9564812723A123E3002A8010 = {
 			isa = PBXGroup;
 			children = (
@@ -173,6 +183,7 @@
 		9564813223A123E3002A8010 /* SwiftUIAnimationSamples */ = {
 			isa = PBXGroup;
 			children = (
+				1D52EA7023C7B31A00C2970E /* Shape */,
 				95A8671323B6044E00055085 /* Transitions */,
 				956481B923A3DE55002A8010 /* MultiplyingAnimationSpeed */,
 				956481AD23A3C66E002A8010 /* AnimationScope */,
@@ -455,6 +466,7 @@
 				9564814C23A124C8002A8010 /* Conventions.swift in Sources */,
 				9564818A23A379D9002A8010 /* Trigger_Stepper.swift in Sources */,
 				9564813623A123E3002A8010 /* SceneDelegate.swift in Sources */,
+				1D52EA7423C7B35F00C2970E /* ClipShape.swift in Sources */,
 				9564818823A37863002A8010 /* Trigger_Slider.swift in Sources */,
 				95A8671523B6046C00055085 /* AnyTranstions.swift in Sources */,
 				9564815B23A13BB9002A8010 /* ChalengeREcreateAnimation_2.swift in Sources */,
